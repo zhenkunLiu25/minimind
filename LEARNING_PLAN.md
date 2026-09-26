@@ -50,7 +50,7 @@ eval_llm / scripts/*   推理、部署、转换
 
 ### 0.3 前置知识自检
 
-开始前，确认你对以下内容至少「知道是什么」，不熟的在第 1 周补：
+开始前，确认你对以下内容至少「知道是什么」，不熟的在第 1 周补（带可运行代码的复习手册见 [`PREREQUISITES.md`](./PREREQUISITES.md)）：
 
 - Python：`argparse`、类与继承、列表推导、`__getitem__`
 - PyTorch：`nn.Module`、`nn.Linear`、`nn.Embedding`、张量形状操作（`view` / `transpose` / `reshape` / `gather` / `scatter`）、`autograd`、`DataLoader`
